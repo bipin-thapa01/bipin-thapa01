@@ -1,6 +1,10 @@
 # 💫 About Me:
 I am a junior lever full-stack developer who have knowledge<br>on language like JavaScript, C++, Python, Java. I use libraries like <br>React.js, Node.js, Express.js, Next.js, Numpy, PyautoGUI for my projects.<br><br>I am currently learning Data Science and have interest on the field<br>of Machine learning. I want to make my career on this field.
 
+## My Protfolio Link:
+If your want to do some project with me or want to see my major projecs, visit me at:
+https://bipin01-portfolio.vercel.app/
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/bipin.thapasingh/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bipin-thapa-990b5131b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yukichin638@gmail.com) 
